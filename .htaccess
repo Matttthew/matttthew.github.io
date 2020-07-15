@@ -1,0 +1,4 @@
+#Force www:
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^drlewisplasticsurgery.com [NC]
+RewriteRule ^(.*)$ https://www.drlewisplasticsurgery.com//$1 [L,R=301,NC]
