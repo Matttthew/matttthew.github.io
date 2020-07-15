@@ -1,2 +1,6 @@
 RewriteEngine on  
+RewriteCond %{HTTP_HOST} !^www\.
 RewriteRule ^(.*)$ https://www.%{HTTP_HOST}/$1 [R=301,L]
+
+RewriteCond %{HTTP:X-Forwarded-Proto} =https
+RewriteRule ^(.*)$ https://www.drlewisplasticsurgery.com//$1 [R=301,L]
