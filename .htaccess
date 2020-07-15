@@ -1,4 +1,4 @@
 
-
-RewriteCond %{HTTP:X-Forwarded-Proto} =https
-RewriteRule ^(.*)$ https://www.drlewisplasticsurgery.com/$1 [R=301,L]
+RewriteEngine On
+RewriteCond %{HTTPS} on
+RewriteRule (.*) https://www.%1/$1 [R=301,L]
