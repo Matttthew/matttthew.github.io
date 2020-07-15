@@ -1,7 +1,7 @@
 ---
 title: Gallery
 permalink: "/gallery/"
-position: 5
+position: 4
 layout: gallery
 ---
 

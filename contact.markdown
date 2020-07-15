@@ -1,7 +1,7 @@
 ---
 title: Contact
 permalink: "/contact/"
-position: 1
+position: 5
 layout: contact
 ---
 
