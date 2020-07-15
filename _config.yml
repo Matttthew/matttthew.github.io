@@ -19,8 +19,8 @@ description: Plastic surgery is first a medical science, but it also a fine art.
   for nuance – that create the difference between good and optimal results. And by
   the way, Dr. Lewis believes in active listening – in order to better understand
   his patients concerns and preferences.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 theme: minima
 plugins:
 - jekyll-feed
