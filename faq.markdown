@@ -5,59 +5,36 @@ position: 3
 layout: info
 ---
 
-## Dr. Robert Lewis - the personal approach to plastic surgery ##
+## What are the kinds of surgical procedures and services do you offer? ##
 
-Welcome to Dr. Robert Lewis practice of plastic and reconstructive surgery. Dr. Lewis has over 15 years of experience in private practice after his training. The office is in Canfield, Ohio but serves patients from the surrounding areas and western Pennsylvania also. Plastic surgery can be a powerful tool to help you age gracefully and transform your outer appearance. Dr. Lewis office is patient focused. Dr. Lewis and his staff are dedicated to your service and assistance in educating you, the patient, to better understand the process of plastic surgery.  From your initial phone call to your first office visit with Dr. Lewis you will be treated with respect and kindness. The goal is to personally address your specific, individual concerns and devise a plan to approach your treatment. You will meet with Dr. Lewis personally before your procedure and in follow up. Generally, for new cosmetic patients, there is a waiting period for new appointments. This is the case because Dr. Lewis is a busy, popular surgeon in this area. Every effort is made to make your appointment at a time that is convenient for you. However, because Dr. Lewis operates outside the office up to three days a week, there may be certain limitations as to when office visits are available. Please be patient and call early to reserve your office visit time with Dr. Lewis. You will not be disappointed. This will assure you the preparation time you deserve before any procedure. Urgent patient problems are always addressed directly by Dr. Lewis. Patients with emergent or life threatening conditions should obviously call 911 or go directly to your nearest emergency room. Dr. Lewis sees his job as listener as important as his surgical skills. You can be assured that Dr. Lewis will be open, honest and sincere with you in developing a plan to address your concerns. Your concerns in concert with your unique anatomy will be the driving force behind developing a surgical approach to your treatment. The professional medical staff at Dr. Lewis’ office are available to offer you exceptional, personalized plastic surgical care born of the individuality of each patient. Many times, upon request, Dr. Lewis prior patients that have already undergone the procedure in question can be asked to contact you and speak directly and candidly about their experience. Those arrangements can only be made after consultation with Dr. Lewis.
+Dr. Lewis performs all types of plastic and reconstructive surgery. He has advanced training in aesthetic (cosmetic) surgery and that is an area of specific interest.  He routinely performs facial cosmetic surgery including facelifts, blepharoplasty, rhinoplasty and brow lift surgery. Breast augmentation, reductions, breast lifts along with tummy tucks and liposuction are common procedures for Dr. Lewis. Additionally, Dr. Lewis is experienced and trained to perform reconstructive surgery and hand surgery. Dr. Lewis helps provide call coverage for St. Elizabeth Health Center (a level I trauma center) in the plastic surgery department. He typically is asked to  manage all forms of reconstructive trauma from hand injuries, animal bites, industrial injuries and motor vehicle injuries. Dr. Lewis routinely treats skin cancer and skin cancer reconstruction and skin reductive surgery following weight loss. He is also trained in non-invasive in office procedures such as injectable fillers, botulinum toxin injections. Dr. Lewis also routinely performs breast reconstruction following surgery for breast cancer. Dr. Lewis is a strong supporter of the Joni Abdu Comprehensive Breast Care Center in Youngstown affiliated with St. Elizabeth Health Center. If you have any questions regarding procedures that Dr. Lewis may perform please call the office directly.
 
+## What are your costs? Will my insurance cover the costs? ##
 
-## Specialties ##
+Everyone’s situation is unique and my office stands ready to discuss any concerns or questions you have about payment and fees. Also, please discuss any questions you have about fees and payments with Dr. Lewis directly. Open communication between patients and Dr. Lewis office is paramount. You may call the office at any time during normal business hours and inquire as to pricing for a particular procedure. Remember that even though you believe you may be a candidate for a particular procedure, you may learn more about the propriety of that procedure for your individual needs after discussion and evaluation with Dr. Lewis. The costs that may be quoted to you over the phone are ‘estimates’ and your individual case may be priced differently based upon your evaluation by Dr. Lewis.
+Dr. Lewis participates with most major medical insurance plans. However, please call the office to confirm that information. Dr. Lewis is a participating provider with traditional Medicare and Medicaid. We will attempt to seek pre-authorization in appropriate situations for what might be considered an insurance covered procedure. Please take an active role in understanding your particular insurance coverage and co-pays. Elective, cosmetic (self pay) procedures do require pre payment prior to surgery. Those specific details will be reviewed with you in advance of any procedure. Dr. Lewis participates with M-lend and Care Credit. Visa and MasterCard are also accepted at the office.
 
-Dr. Lewis’ practice includes all areas of plastic, reconstructive and hand surgery. He is fellowship trained in Aesthetic Surgery and offers contemporary approaches to facial cosmetic surgery, breast enhancement/reconstruction and body contouring surgery. Dr. Lewis is trained and experienced in the delivery of injectable fillers (Juvederm ®, Boletero ®, Restylane/Perlane ®, Radiesse ®) and botulinum toxin (Botox ®, Xeomin ®, Dysport ®). If you have any questions as to whether Dr. Lewis performs a particular procedure or would like more information please feel free to call the office and inquire.
+## How do I choose a qualified plastic surgeon? ##
 
-Dr. Lewis is also experienced in the treatment of breast reconstruction following mastectomy, lumpectomy or post biopsy/radiation deformities of the breast. He commonly uses autologous tissue (TRAM or latissimus flap) reconstructive techniques as well as utilizing expander/implant reconstruction. Frequently, Dr. Lewis may also recommend the use of an acellular dermal matrix (ADM) such as Alloderm ® for reconstruction.
+This is one of the most important questions you could ask. Your level of confidence in the doctor you choose is crucial. So please take all the time you need to carefully consider your options in deciding upon the plastic surgeon that is right for you. If you have questions or concerns after any office visit be sure to write them down and get them answered. Don’t feel awkward about getting a second opinion, especially when it comes to a plastic surgical procedure. Plastic surgery popularity has soared recently. More and more doctors are trying to get into the business. Any licensed physician (and even some dentists and chiropractors) can call themselves a “cosmetic surgeon.” Please be sure and look past what they are describing themselves as and be critical of their credentials. Choosing a doctor that is a member of the American Society of Plastic Surgeons (R) (ASPS) is the first step in ensuring quality care and outcomes. Ask several of your friends and/or any nurse or medical practitioner you may know who they recommend. Also, if you have to wait before seeing your surgeon, be patient. Call early and plan ahead.
+Here are a few very specific issues to look into the research before choosing your plastic surgeon.
+* Make sure your surgeon is certified by the American Board of Plastic Surgery (ABPS) – the ONLY board recognized the the American Board of Medical Specialties (ABMS) in Plastic Surgery. Don’t be fooled by other “boards” and “societies” that are NOT recognized by the ABMS.
+* Make sure your surgeon is a graduate of an accredited medical school.
 
+* Make sure your surgeon has completed at least five years of surgical training after medical school with a minimum of two years in Plastic Surgery.
+* Be certain your surgeon is trained and experienced in ALL plastic surgical procedures, including breast, body, face and reconstruction.
+* Be certain your surgeon is a member of the American Society of Plastic Surgeons (ASPS). Look for the symbol which is displayed on this website. The ASPS is the largest plastic surgery organization in the world.
+* Operates only in accredited facilities. If you are having surgery (other than minor procedures) in someone’s office be certain to ask and confirm that facility’s accreditation.
+* Has been granted privileges to perform the specific procedure you are interested by a hospital.
+* Adheres to a strict code of ethics.
+* Fulfills continuing medical education requirements. Also participates in maintenance of certification protocols as required by the American Board of Plastic Surgery.
 
-## Aesthetic ##
-
-Following plastic surgery training, Dr. Lewis successfully completed a one year fellowship in New York City studying and honing his skills in the art of Aesthetic Surgery. He trained at the prestigious Manhattan Eye Ear and Throat Hospital. He has advanced training in all areas of Aesthetic Surgery. He also has advanced training in the use of injectable fillers, botulinum toxin injections and skin care. Dr. Lewis also works closely with an on-site aesthetician to coordinate and complement treatments.
-
-
-## Announcements ##
-
-If you would like further information regarding a particular procedure please feel free to send me an email with your address and request. Our office is located near the Wendy’s in Canfield on Route 224. The new office is more spacious for your comfort and privacy. We look forward to seeing you at our new location. The Surgery Center of Canfield is conveniently located adjacent to our new office. This new Surgery Center is a state-of-the- art, fully staffed outpatient surgery center with three operating suites and two minor procedure/endoscopy suites. Anesthesia is provided at the Surgery Center by board certified anesthesiologist and nurse anesthetist affiliated with the BelPark Anesthesia group. Dr. Lewis now has the Iridex (532 mm) laser available in the office. This laser is very effective at treating many different skin conditions. Typically, this laser is used for facial spider veins or light tan pigmented lesions. Feel free to call and inquire about this exciting new piece of equipment.
-      
-
-### Credentials ###
-
-* Fellow, American College of Surgeons
-* Board Certified, American Board of Plastic Surgery (ABPS)
-* Completed, Maintenance of Certification (MOC) administered by the ABPS
-* Member, American Society of Plastic Surgeons (ASPS)
-* Member, Ohio Valley Society of Plastic Surgeons
-* Member, Ohio State Medical Association
+## I’ve decided on elective surgery. What is my first step? ##
+Congratulations on your decision! It is very common for patients that undergo elective cosmetic surgery to research their decision for months to years prior to the actual date.  Obviously, you need to find your surgeon. Please refer to the “How do I find a qualified plastic surgeon” section of this website for specific things to look for in your surgeon. To schedule an appointment with Dr. Lewis you will need to call the office at: 330-533-6999. Please remember that typically there is a waiting period to get into see Dr. Lewis. With that in mind, call well ahead of the time that you would ideally anticipate having surgery. Do your research and write down your questions for Dr. Lewis prior to your appointment.
+I’m concerned about privacy. Will my surgery be confidential?
+Absolutely! Your privacy is of utmost importance to Dr. Lewis and his staff. Your records, including any potential photographs are exclusively private and confidential. No information is ever transmitted over the phone regarding any patients care unless it is to that individual patient. Dr. Lewis’ office staff have years of experience in maintaining and preserving privacy and confidentiality in this setting. The office also offers an alternative entrance for any patient that wishes to come and go from the office without entering the waiting room. Please ask specifically for that opportunity and you will be directed appropriately.
 
 
-## Training and on Expertise ##
-* Undergraduate degrees – DePauw University, Greencastle, IN<
-* Medical degree – University of Illinois, College of Medicine at Peoria
-* General Surgery Residency – Akron General Medical Center, Akron OH
-* Plastic Surgery Residency – Summa Health Systems, Akron, OH
-* Aesthetic Surgery Fellowship – Manhattan Eye Ear and Throat Hospital, New York, NY
-* Master of Science, Biology – The University of Akron, Akron OH
+## What different types of skin care products do you sell? ##
 
-
-## Certification and Memberships ##
-* Fellow, American College of Surgeons
-* Board Certified, American Board of Plastic Surgery (ABPS)
-* Completed, Maintenance of Certification (MOC) administered by the ABPS
-* Member, American Society of Plastic Surgeons (ASPS)
-* Member, Ohio Valley Society of Plastic Surgeons
-* Member, Ohio State Medical Association
-
-## Work Experience ##
-
-Dr. Lewis has been in private practice since July of 1998. He has over 15 years of surgical and patient care experience. The majority of his practice is elective cosmetic/aesthetic surgery. However, Dr. Lewis also has a broad experience in all forms of reconstructive and soft tissue hand surgery. He operates on all parts of the body for both cosmetic and reconstructive purposes. The first two years of his practice were spent in Peoria, Illinois near his hometown. He moved to the Youngstown area in July of 2000 and has been in continuous practice there since that time.
-
-## Staff Privileges ##
-
-Dr. Lewis is on staff and credentialed at several local area hospitals. Those hospitals include: St. Elizabeth Health Center, Youngstown, The Surgical Hospital at Southwoods, Salem Community Hospital and Northside Hospital. He performs the majority of his surgery at The Surgery Center, Canfield. Minor operative procedures can also be safely performed at his Canfield office location.
+Dr. Lewis works directly with June Hileman, a certified aesthetician. June see her clients in Dr. Lewis’ office and consults directly with Dr. Lewis on patient care and skin care recommendations. There is a specific line of skin care products that may be recommended to an individual patient based upon their specific needs. June also performs chemical peels in the office of varying strengths. If you are considered a candidate for even a stronger chemical peel, such as a TCA peel, that would be performed by Dr. Lewis.  June also works with younger patients in conjunction with Dr. Lewis to help control, manage and treat acne and acne related scarring. Please feel free to call June directly 330-507-2627 to set up a consultation with her at your convenience.
