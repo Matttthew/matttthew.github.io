@@ -62,10 +62,3 @@ Dr. Lewis has been in private practice since July of 1998. He has over 15 years 
 
 Dr. Lewis is on staff and credentialed at several local area hospitals. Those hospitals include: St. Elizabeth Health Center, Youngstown, The Surgical Hospital at Southwoods, Salem Community Hospital and Northside Hospital. He performs the majority of his surgery at The Surgery Center, Canfield. Minor operative procedures can also be safely performed at his Canfield office location.
 
-[View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
- 
-A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
-  
-An image, located within /images
-
-![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
