@@ -49,43 +49,31 @@
         <span class="fade fade-neutral scroll-click">Get in touch &darr;</span>
       </div>
 
-      <div class="contact"><form class="contact-form" method="post" action="/contact">
-    <h2>Send a Message</h2>
-    <div class="contact-row">
-      <div class="contact-info">
-        <label class="contact-label" for="inputName">Name (required)</label>
-        <input class="contact-input" id="inputName" type="text" name="name" />
-      </div>
-
-      <div class="contact-info">
-        <label class="contact-label" for="inputEmail">Email (required)</label>
-        <input class="contact-input" id="inputEmail" type="email" name="email" />
-      </div>
-
+      <div class="contact"><form action="https://getform.io/f/7a4ad3d7-e5f2-4095-8647-7170004d9eca" method="POST">
+  <h2>Send a Message</h2>
+  <div class="contact-row">
+    <div class="contact-info">
+      <label class="contact-label" for="inputName">Name</label>
+      <input class="contact-input" id="inputName" type="text" name="name" />
     </div>
 
-    <div class="contact-row">
-      <div class="contact-info">
-        <label class="contact-label" for="inputEmail">Phone (required)</label>
-        <input class="contact-input" id="inputEmail" type="email" name="email" />
-      </div>
-      <div class="contact-info">
-        <label class="contact-label" for="inputEmail">Subject</label>
-        <input class="contact-input" id="inputEmail" type="email" name="email" />
-      </div>
+    <div class="contact-info">
+      <label class="contact-label" for="inputEmail">Email (required)</label>
+      <input class="contact-input" id="inputEmail" type="email" name="email" />
     </div>
 
-    <div class="contact-row">
-      <div class="contact-message">
-        <label class="contact-label" for="inputMessage">Message</label>
-        <textarea class="inputMessage" rows="3" name="message"></textarea>
-      </div>
+  </div>
+
+  <div class="contact-row">
+    <div class="contact-message">
+      <label class="contact-label" for="inputMessage">Message</label>
+      <textarea class="inputMessage" rows="3" name="message"></textarea>
     </div>
+  </div>
 
-    <br>
-    <input class="contact-input" id="email-submit-btn" type="submit" value="Send" name="submit" />
-
-  </form>
+  <br>
+  <button class="contact-input" id="email-submit-btn"  type="submit">Send</button>
+</form>
 
   <style>
     @media (max-width: 800px) {
